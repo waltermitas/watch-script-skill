@@ -33,6 +33,6 @@ The skill file only describes the pipeline. The voice, the template and the pass
 
 ## Try it
 
-The repo is here: *[link once published]*. Swap the style guide for your own channel's voice and you have your own version.
+The repo is here: [github.com/waltermitas/watch-script-skill](https://github.com/waltermitas/watch-script-skill). Swap the style guide for your own channel's voice and you have your own version.
 
 *If you build something with it, tell me what you filmed.*
