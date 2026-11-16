@@ -3,7 +3,7 @@ name: watch-script
 description: Use when you want a YouTube script for a single-watch showcase video. Give it a watch (brand + reference, e.g. "Omega Speedmaster 3570.50") and optional notes; it researches, then drafts BOTH a retention-engineered ~10-min long-video script (with a b-roll column) AND a ~90s short cut, plus a title/SEO pack and a companion blog article.
 ---
 
-# Watch Script — single-watch showcase generator
+# Watch Script - single-watch showcase generator
 
 Turns a watch reference into a camera-ready script and a blog post. Format: single-watch showcase only.
 

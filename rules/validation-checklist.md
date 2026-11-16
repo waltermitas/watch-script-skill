@@ -1,10 +1,10 @@
 # Script Validation Checklist
 
-Purpose: an objective, binary (PASS/FAIL) acceptance checklist for validating a generated "Brothers in Watches" single-watch showcase YouTube script. Every item below is checkable by inspecting a finished script — no subjective judgement. If an item can't be answered yes/no from the script alone, it FAILS.
+Purpose: an objective, binary (PASS/FAIL) acceptance checklist for validating a generated "Brothers in Watches" single-watch showcase YouTube script. Every item below is checkable by inspecting a finished script - no subjective judgement. If an item can't be answered yes/no from the script alone, it FAILS.
 
 ## Structure
 
-- [ ] All required long-video segments present, in order: (1) Cold open, (2) The promise, (3) History — one angle, (4) Signature-feature deep dive, (5) The piece in hand, (6) Dating & authentication, (7) The flaw, movement & condition, (8) Market & value, (9) On the wrist / who it's for, (10) Verdict/close, (11) CTA.
+- [ ] All required long-video segments present, in order: (1) Cold open, (2) The promise, (3) History - one angle, (4) Signature-feature deep dive, (5) The piece in hand, (6) Dating & authentication, (7) The flaw, movement & condition, (8) Market & value, (9) On the wrist / who it's for, (10) Verdict/close, (11) CTA.
 - [ ] Cold open is ≤60 spoken words.
 - [ ] Total long-video narration is 2,200–2,600 spoken words.
 - [ ] Chapter timestamps are present.
