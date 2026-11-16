@@ -69,7 +69,7 @@ No. It writes one Markdown file and reports back with the title options, the sho
 ## Related projects
 
 - [watch-hunter-skill](https://github.com/waltermitas/watch-hunter-skill): scheduled AI agents that hunt underpriced watches on ricardo.ch.
-- [claude-agent-fleet-monitor](https://github.com/waltermitas/claude-agent-fleet-monitor): a dead-man switch for scheduled AI agents.
+- [ai-agent-fleet-monitor](https://github.com/waltermitas/ai-agent-fleet-monitor): a dead-man switch for scheduled AI agents.
 - [claude-seo-autopilot](https://github.com/waltermitas/claude-seo-autopilot): a three-runs-a-week SEO and AI search skill.
 
 The full fleet, and what each AI agent got wrong, is at [waltermitas.com/ai-agents](https://waltermitas.com/ai-agents/).
